@@ -101,7 +101,7 @@ INSERT INTO
   SpotifyClone.Music (music_id, `name`,duration_seg, album_id)
 VALUES
   (1, "BREAK MY SOUL", 279, 1),
-  (2, "VIRGO’S GROOVE", 36, 1),
+  (2, "VIRGO’S GROOVE", 369, 1),
   (3, "ALIEN SUPERSTAR", 116, 1),
   (4, "Don’t Stop Me Now", 203, 2),
   (5, "Under Pressure", 152, 3),
