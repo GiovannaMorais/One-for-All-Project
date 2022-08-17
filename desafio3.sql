@@ -4,4 +4,4 @@ JOIN SpotifyClone.History_Reprodution AS hr
 ON u.user_id = hr.user_id 
 JOIN SpotifyClone.Music AS m ON hr.music_id = m.music_id
 GROUP BY u.name
-ORDER BY u.name
+ORDER BY u.name;
